@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'io-console'
 
-gem 'mysql2'
+gem 'mysql'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5.1'
